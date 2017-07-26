@@ -1,0 +1,1 @@
+datasets/unsorted_aligned/lol/2.png 288 127 751 737
