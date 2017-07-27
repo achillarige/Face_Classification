@@ -1,2 +1,0 @@
-datasets/unsorted_aligned/lol/0.png 112 55 284 264
-datasets/unsorted_aligned/lol/1.png 57 45 148 143

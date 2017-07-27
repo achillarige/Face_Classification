@@ -1,0 +1,9 @@
+datasets/unsorted_aligned/lol/0.png 112 55 284 264
+datasets/unsorted_aligned/lol/1.png 57 45 148 143
+datasets/unsorted_aligned/lol/2.png 288 127 751 737
+datasets/unsorted_aligned/lol/group-booking_0.png 48 102 174 255
+datasets/unsorted_aligned/lol/group-booking_1.png 229 109 359 269
+datasets/unsorted_aligned/lol/group-booking_2.png 359 90 490 242
+datasets/unsorted_aligned/lol/group-booking_3.png 294 0 424 131
+datasets/unsorted_aligned/lol/group-booking_4.png 205 0 315 125
+datasets/unsorted_aligned/lol/group-booking_5.png 160 136 279 287
