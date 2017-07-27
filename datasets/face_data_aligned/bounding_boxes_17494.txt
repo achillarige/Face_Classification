@@ -1,0 +1,4 @@
+datasets/face_data_aligned/Nick_Crompton/Nick_1.png 64 43 237 249
+datasets/face_data_aligned/Ananth_Chillarige/Ananth_1.png 56 23 150 133
+datasets/face_data_aligned/Nihal_George/Nihal_1.png 33 20 130 129
+datasets/face_data_aligned/Jake_Paul/Jake_1.png 272 129 591 554
