@@ -15,5 +15,8 @@ align.align_faces(unaligned_test, aligned_test)
 trainer.train()
 tester.test()
 
+align.align_faces(unaligned_data, align_faces)
+trainer.train()
+
 
 
