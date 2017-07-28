@@ -7,6 +7,7 @@ sys.path.append("..")
 
 import classifier
 
-args = classifier.parse_arguments(["CLASSIFY", "datasets/unsorted_aligned/",  
-    "20170512-110547.pb", "face_classifier.pkl", "--train_dir=datasets/face_data_aligned/"])
-classifier.main(args)
+def test():
+    args = classifier.parse_arguments(["CLASSIFY", "datasets/unsorted_aligned/",  
+        "20170512-110547.pb", "face_classifier.pkl", "--train_dir=datasets/face_data_aligned/"])
+    classifier.main(args)
