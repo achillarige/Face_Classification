@@ -1,0 +1,2 @@
+datasets/unsorted_aligned/lol/maxresdefault_grp0.png 880 104 1197 482
+datasets/unsorted_aligned/lol/maxresdefault_grp1.png 493 130 615 287

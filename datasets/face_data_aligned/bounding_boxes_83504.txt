@@ -1,0 +1,9 @@
+datasets/face_data_aligned/Nihal_George/Nihal_1.png 33 20 130 129
+datasets/face_data_aligned/Clare_Monahan/Clare.png 1239 634 1431 870
+datasets/face_data_aligned/Vishal_Joshi/Vishal.png 339 363 706 842
+datasets/face_data_aligned/Nick_Crompton/Nick_1.png 64 43 237 249
+datasets/face_data_aligned/Ananth_Chillarige/Ananth_1.png 56 23 150 133
+datasets/face_data_aligned/Cali_Test/8.png 354 65 730 566
+datasets/face_data_aligned/Evan_Breisch/Evan.png 931 378 1340 885
+datasets/face_data_aligned/Jake_Paul/Jake_Paul_camo_pink_sig_fanjoy.png 400 105 580 338
+datasets/face_data_aligned/Jake_Paul/Jake_1.png 272 129 591 554
